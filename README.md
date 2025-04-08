@@ -2,6 +2,9 @@
 
 Vibra is a modern music streaming web app where users can upload and play tracks with a clean and responsive UI.
 
+![Vibra Logo](./vibra.png)
+
+
 ## 🚀 Tech Stack
 - React.js
 - Tailwind CSS (coming soon)
